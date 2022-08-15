@@ -1,0 +1,1 @@
+Service exposed at http://52.228.98.67:8080/weatherforecast
