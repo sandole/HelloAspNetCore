@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\minjun.seong\\Desktop\\Personal projects\\aks-app\\HelloAspNetCore\\HelloAspNetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\minjun.seong\\Desktop\\Personal projects\\aks-app\\HelloAspNetCore\\HelloAspNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\minjun.seong\\Desktop\\Personal projects\\aks-app\\HelloAspNetCore\\HelloAspNetCore.csproj",
+        "projectName": "HelloAspNetCore",
+        "projectPath": "C:\\Users\\minjun.seong\\Desktop\\Personal projects\\aks-app\\HelloAspNetCore\\HelloAspNetCore.csproj",
+        "packagesPath": "C:\\Users\\minjun.seong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minjun.seong\\Desktop\\Personal projects\\aks-app\\HelloAspNetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\minjun.seong\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
